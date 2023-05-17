@@ -2,11 +2,15 @@ body{
     background-color: black;
 }
 
+span{
+    text-decoration: underline white;
+}
+
 .pretty_me{
     width: 50%;
     height: 50%;
     margin: auto auto ;
-    border: thick double #FAFF0A;
+    border: thick double #ffffff;
     
 }
 
@@ -16,12 +20,13 @@ body{
 }
 
 h1{
-    color: yellow;
+    color: #ffffff;
     text-align: center;
     font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
 }
 
 h3{
-    color: #FAFF0A;
+    color: #ffffff;
     text-align: center;
 }
