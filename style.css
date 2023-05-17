@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+.pretty_me{
+    width: 50%;
+    height: 50%;
+    margin: auto auto ;
+    border: thick double #FAFF0A;
+    
+}
+
+.pic{
+    height: 50%;
+    width:100%;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h3{
+    color: #FAFF0A;
+    text-align: center;
+}
